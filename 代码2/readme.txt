@@ -1,0 +1,1 @@
+Input in standard form, we can get standard output.
